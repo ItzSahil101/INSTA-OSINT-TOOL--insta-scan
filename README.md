@@ -7,6 +7,8 @@ STEP 1: git clone https://github.com/ItzSahil101/INSTA-OSINT-TOOL--insta-scan.gi
 
 STEP 2: go to this folder "INSTA-OSINT-TOOL--insta-scan"
 
+STEP 3: npm install
+
 STEP 3: node insta-osint.mjs
 
 
