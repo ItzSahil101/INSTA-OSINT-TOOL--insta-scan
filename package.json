@@ -1,0 +1,21 @@
+{
+  "name": "osint",
+  "version": "1.0.0",
+  "description": "INSTA OSINT TOOL USED TO GET INFO ABOUT INSTA ACCOUNT/ INSTA ACCOUNT SCRAPPING -CREATED BY SAHIL JOGI",
+  "main": "insta-osint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sahil jogi",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.1.0",
+    "figlet": "^1.8.1",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.6.3",
+    "puppeteer": "^24.10.2"
+  }
+}
